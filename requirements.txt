@@ -21,3 +21,4 @@ pytest>=6.2.5  # For testing
 djangorestframework>=3.12.4  # Fixed package name
 channels>=3.0.4  # If using WebSockets
 ta>=0.10.0  # Technical Analysis Library
+xgboost>=1.5.0  # XGBoost Library for ML models
