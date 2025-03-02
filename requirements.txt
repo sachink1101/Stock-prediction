@@ -18,4 +18,4 @@ redis>=4.0.0  # For caching and Celery broker
 gunicorn>=20.1.0  # Production server
 pytest>=6.2.5  # For testing
 djangorestframework>=3.12.4  # Fixed package name
-channels>=3.0.4  # If using WebSockets
+channels>=3.0.4  # If using WebSockets use
